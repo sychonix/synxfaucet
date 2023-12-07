@@ -39,7 +39,7 @@ export default function Faucet() {
       <div className=" flex min-h-full items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
         <div className=" w-full max-w-md space-y-8">
           <div>
-           <img className="mx-auto h-[70px] w-15" src="logo.png" alt="Testnet Faucet" />       
+           <img className="mx-auto h-[70px] w-15" src="sychonix.jpeg" alt="Testnet Faucet" />       
              <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">Sychonix Faucet</h2>   
            </div>
           <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
