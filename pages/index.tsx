@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Testnet Faucet</title>
-        <meta name="description" content="Testnet Facuet" />
+        <title>Sychonix Faucet</title>
+        <meta name="description" content="Sychonix Facuet" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/logo.png" />
+        <link rel="icon" href="/sychonix.jpeg" />
       </Head>
       <main>
         <Faucet />
